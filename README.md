@@ -18,5 +18,5 @@ There are some common credit card vendor regular expressions:
     
 And here you see screenshots of the asp.net project.
 
-<img src="img/img1.JPG" width="200" height="350"> <img src="img/img2.jpg" width="200" height="350"> <img src="img/img4.jpg" width="200" height="350"> <img src="img/img3.jpg" width="200" height="350">
+<img src="img/img1.JPG" width="270" height="400"> <img src="img/img2.JPG" width="200" height="350"> <img src="img/img4.JPG" width="200" height="350"> <img src="img/img3.JPG" width="200" height="350">
 
