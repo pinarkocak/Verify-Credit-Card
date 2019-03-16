@@ -1,6 +1,6 @@
 # Verify-Credit-Card
 
-With a few simple Regular Expressions, you can easily verify credit card number and check if its type. Each card issuer has its own range of card numbers. 
+With a few simple Regular Expressions, you can easily verify credit card number and check if its type is true. Each card issuer has its own range of card numbers. 
 
 There are some common credit card vendor regular expressions:
 
